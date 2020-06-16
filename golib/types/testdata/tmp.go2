@@ -1,0 +1,5 @@
+package p
+
+type T(type P) P
+
+const _ T(int) = 0
