@@ -1,3 +1,6 @@
+# Deprecated!
+go2go officially [released](https://go.googlesource.com/go/+/refs/heads/dev.go2go/README.go2go.md)!
+
 # go2go 
 This project is fork of [Go2 Contract Draft](https://go.googlesource.com/proposal/+/master/design/go2draft-contracts.md) 
 implementation written by Robert Griesemer.
